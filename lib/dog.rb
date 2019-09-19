@@ -7,3 +7,4 @@ def bark
   
 def sit 
   puts "The dog is sitting"
+end 
