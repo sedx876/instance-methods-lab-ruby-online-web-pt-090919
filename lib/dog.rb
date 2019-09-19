@@ -4,4 +4,3 @@ end
 def bark
     puts "Woof!"
   end
-end
