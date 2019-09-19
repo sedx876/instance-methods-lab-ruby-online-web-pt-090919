@@ -5,4 +5,3 @@ def bark
     puts "Woof!"
   end
   
-  fido.bark
